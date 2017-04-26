@@ -1,0 +1,1 @@
+procdump.exe -ma NETFullConsoleExceptionGenerator -o c:\_Temp -e 1 -n 10 -f "System.StackOverflowException"
