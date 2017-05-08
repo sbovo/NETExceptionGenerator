@@ -5,4 +5,4 @@
 .NET Console using .NET Full that generates exceptions every 10s. The exceptions are handled; There are only a first chance
 
 ## ProcDump
-Command line scripts for take dumps only for specific first chance .NET Exceptions
+Command line scripts for taking dumps only for specific first chance .NET Exceptions

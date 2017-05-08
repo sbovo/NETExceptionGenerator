@@ -23,11 +23,11 @@ namespace NETFullConsoleExceptionGenerator
             }
         }
 
-        private static void TryAndCatch(Type exceptuionType)
+        private static void TryAndCatch(Type exceptionType)
         {
             try
             {
-                RaiseNewException(exceptuionType);
+                RaiseNewException(exceptionType);
             }
             catch (Exception ex)
             {
